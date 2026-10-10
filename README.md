@@ -37,3 +37,14 @@ If GitHub Pages currently publishes the repository root from `main`, copy these 
 
 ## Resume-aligned details
 Updated using the uploaded resume: IdentityFort backend work at Jio Platforms Limited (October 2023–present), Java/Spring Boot REST APIs, PostgreSQL query optimisation, access and approval workflows, audit logging, the AI Project Generator's GitHub Pages workflow, IIT Madras Diploma in Data Science, and BIT Mesra B.Tech (CGPA 8.28/10.00). Review all details before publishing if the resume has since changed.
+
+
+## Resume-aligned details
+This version incorporates details from the uploaded resume:
+- IdentityFort backend work at Jio Platforms Limited, October 2023–present
+- Java, Spring Boot, REST APIs, PostgreSQL query optimisation, access/approval workflows, audit logging, and compliance documentation
+- AI Project Generator: FastAPI, LLM APIs, GitHub API, GitHub Pages deployment, iterative enhancement workflow, async processing, and callbacks
+- IIT Madras Diploma in Data Science (2024–present)
+- B.Tech, Electronics and Communication Engineering, BIT Mesra (CGPA 8.28/10.00)
+
+Review all dates, project statuses, and public links before publishing if the resume has changed.
